@@ -5,5 +5,7 @@ La clase JsonPlaceholderApi simplifica las solicitudes HTTP a la API de JSONPlac
 
 ## Beneficios:
 Reutilización: La clase facilita la reutilización del código para realizar solicitudes HTTP.
+
 Mantenimiento Simple: Con un diseño claro, el código es fácil de entender y mantener.
+
 Configuración Flexible: Utiliza una configuración personalizada con ConfigAxiosApi para adaptarse a diferentes necesidades de la API.
